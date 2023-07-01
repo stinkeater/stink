@@ -1,0 +1,47 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "🪱stinkeater",
+    "description": "",
+    "home_page_url": "https://stinkeater.github.io/stink",
+    "feed_url": "https://stinkeater.github.io/stink/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "stinkeater"
+    },
+    "items": [
+        {
+            "id": "https://stinkeater.github.io/stink/spicy-cajun-red-beans-and-rice.html",
+            "url": "https://stinkeater.github.io/stink/spicy-cajun-red-beans-and-rice.html",
+            "title": "Spicy Cajun Red Beans &amp; Rice",
+            "summary": "(2.5-3 hours) INGREDIENTS STEPS Rinse and sort beans. Drizzle a small amount of olive oil in a large heavy pot, then brown sausage on med-high for 5 minutes. Remove sausage, leaving oil in pot. Set aside until Step 7. Add chopped vegetables, garlic, peppers, along&hellip;",
+            "content_html": "<p class=\"align-center\">(2.5-3 hours)</p>\n<p><strong>INGREDIENTS</strong></p>\n<ul style=\"list-style-type: square;\">\n<li class=\"p1\">2 lbs dry kidney beans</li>\n<li>2 (12 oz) packages smoked sausage, sliced lengthwise and in bite-sized pieces</li>\n<li class=\"p1\">20 cups (5 quarts) chicken stock</li>\n<li class=\"p1\">1/2 stick of butter</li>\n<li class=\"p1\">5 cups chopped vegetable base (onions, celery, green bell peppers)</li>\n<li class=\"p1\">Fresh peppers to taste (1 habanero/4-6 jalapenos etc.)</li>\n<li class=\"p1\">1 bulb garlic, minced</li>\n<li class=\"p1\">2 bay leaves</li>\n<li style=\"list-style-type: none;\">\n<ul style=\"list-style-type: square;\">\n<li><strong>Cajun seasoning:</strong>\n<ul style=\"list-style-type: square;\">\n<li>2 tsp paprika</li>\n<li>1 Tbsp dried oregano</li>\n<li>1 Tbsp dried thyme</li>\n<li>1 tsp black pepper (or more to taste)</li>\n<li>1/2 tsp rubbed sage</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>Salt or cajun seasoning salt to taste</li>\n<li>Hot cooked rice</li>\n<li>Green onions</li>\n</ul>\n<p class=\"p1\"><strong>STEPS</strong></p>\n<ol class=\"ol1\">\n<li class=\"li1\">Rinse and sort beans.</li>\n<li class=\"li1\">Drizzle a small amount of olive oil in a large heavy pot, then brown sausage on med-high for 5 minutes. Remove sausage, leaving oil in pot. Set aside until Step 7.</li>\n<li class=\"li1\">Add chopped vegetables, garlic, peppers, along with 1/2 stick butter, and continue to cook until onions turn soft and clear.</li>\n<li class=\"li1\">Add beans, chicken stock, bay leaves, and <strong>cajun seasoning</strong>.</li>\n<li class=\"li1\">Bring to rolling boil for 30 minutes, stirring occasionally.</li>\n<li class=\"li1\">Reduce heat, simmer for 2-2.5 hours, stirring occasionally, until desired thickness is achieved.</li>\n<li class=\"li1\">Add sausage back in for the last 15 minutes. Test and season to taste with cajun seasoning salt or standard salt.</li>\n<li class=\"li1\">Serve over hot cooked rice with chopped green onions.</li>\n</ol>",
+            "image": "https://stinkeater.github.io/stink/media/posts/3/IMG_8209.jpg",
+            "author": {
+                "name": "stinkeater"
+            },
+            "tags": [
+                   "Video",
+                   "Recipes"
+            ],
+            "date_published": "2023-07-01T03:50:07-04:00",
+            "date_modified": "2023-07-01T03:50:07-04:00"
+        },
+        {
+            "id": "https://stinkeater.github.io/stink/refried-black-beans.html",
+            "url": "https://stinkeater.github.io/stink/refried-black-beans.html",
+            "title": "Refried Black Beans",
+            "summary": "INGREDIENTS STEPS Heat oil in a medium saucepan. Add garlic and smash. Toss in oil until slightly browned but not burnt. Add onion and cook until softened. Add beans and liquid from one can, green chiles, seasonings, and butter. Liquid should be level or slightly&hellip;",
+            "content_html": "<p><strong>INGREDIENTS</strong></p>\n<div class=\"page\" title=\"Page 1\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<ul style=\"list-style-type: square;\">\n<li class=\"column\">2 Tbsp olive oil</li>\n<li>1 onion, diced</li>\n<li>5 garlic cloves, whole, peeled</li>\n<li>2 cans black beans (drain only one can)</li>\n<li>1/4 cup green chiles (can swap w/ salsa verde)</li>\n<li>2 tsp oregano</li>\n<li>1 tsp cumin</li>\n<li>1 tsp paprika</li>\n<li>1/2 tsp chili powder</li>\n<li>1/2 tsp chili flakes</li>\n<li>cube of salted butter</li>\n<li>ground black pepper to taste</li>\n<li>salt to taste</li>\n</ul>\n</div>\n</div>\n</div>\n<p class=\"p1\"><strong>STEPS</strong></p>\n<ol class=\"ol1\">\n<li class=\"li1\">Heat oil in a medium saucepan. Add garlic and smash. Toss in oil until slightly browned but not burnt. Add onion and cook until softened.</li>\n<li class=\"li1\">Add beans and liquid from one can, green chiles, seasonings, and butter. Liquid should be level or slightly higher than the beans. Add stock/broth/water if liquid is too low.</li>\n<li class=\"li1\">Simmer about 20-30 mins, stirring occasionally until liquid has reduced by about half.</li>\n<li class=\"li1\">Taste, add salt if needed, then immersion blend to desired consistency.</li>\n<li class=\"li1\">Optional: Mix some grated cheese into the beans at the end to thicken slightly and add flavor.</li>\n</ol>",
+            "image": "https://stinkeater.github.io/stink/media/posts/2/IMG_8187.jpg",
+            "author": {
+                "name": "stinkeater"
+            },
+            "tags": [
+                   "Video",
+                   "Recipes"
+            ],
+            "date_published": "2023-07-01T02:36:35-04:00",
+            "date_modified": "2023-07-01T03:51:03-04:00"
+        }
+    ]
+}

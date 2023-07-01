@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://stinkeater.github.io/stink/sitemap.xml
