@@ -3,12 +3,55 @@
     <title>🪱stinkeater</title>
     <link href="https://stinkeater.github.io/stink/feed.xml" rel="self" />
     <link href="https://stinkeater.github.io/stink" />
-    <updated>2023-07-01T03:51:03-04:00</updated>
+    <updated>2023-07-01T04:17:07-04:00</updated>
     <author>
         <name>stinkeater</name>
     </author>
     <id>https://stinkeater.github.io/stink</id>
 
+    <entry>
+        <title>Classic Sandwich Bread</title>
+        <author>
+            <name>stinkeater</name>
+        </author>
+        <link href="https://stinkeater.github.io/stink/classic-sandwich-bread.html"/>
+        <id>https://stinkeater.github.io/stink/classic-sandwich-bread.html</id>
+        <media:content url="https://stinkeater.github.io/stink/media/posts/4/IMG_7154.jpg" medium="image" />
+            <category term="Recipes"/>
+            <category term="Photo"/>
+
+        <updated>2023-07-01T04:17:07-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://stinkeater.github.io/stink/media/posts/4/IMG_7154.jpg" alt="" />
+                    INGREDIENTS (2 loaves) STEPS Combine all ingredients and mix Knead with dough hook for 15-18 minutes or until dough pulls from the side in thin strands Transfer to lightly greased bowl and rise for 1-1.5 hours or until puffy but not doubled in size. Gently&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://stinkeater.github.io/stink/media/posts/4/IMG_7154.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="p2"><strong>INGREDIENTS </strong>(2 loaves)</p>
+<ul class="ul1">
+<li class="li2">6 cups (720g) AP flour</li>
+<li class="li2">25-50g granulated sugar</li>
+<li class="li2">16g salt</li>
+<li class="li2">2 teaspoons instant yeast</li>
+<li class="li2">1 cup (226g) milk</li>
+<li class="li2">100g olive oil</li>
+<li class="li2">250g warm water</li>
+</ul>
+<p class="p2"><strong>STEPS</strong></p>
+<ol class="ol1">
+<li class="li2">Combine all ingredients and mix</li>
+<li class="li2">Knead with dough hook for 15-18 minutes or until dough pulls from the side in thin strands</li>
+<li class="li2">Transfer to lightly greased bowl and rise for 1-1.5 hours or until puffy but not doubled in size.</li>
+<li class="li2">Gently deflate, divide in two, envelope fold and shape into 8” logs, transfer to greased loaf pans.</li>
+<li class="li2">Cover with greased plastic wrap and rise 1-1.5 hrs (1” above edge)</li>
+<li class="li2">Bake at 350°F for 30-35 mins.</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Spicy Cajun Red Beans &amp; Rice</title>
         <author>
@@ -17,10 +60,10 @@
         <link href="https://stinkeater.github.io/stink/spicy-cajun-red-beans-and-rice.html"/>
         <id>https://stinkeater.github.io/stink/spicy-cajun-red-beans-and-rice.html</id>
         <media:content url="https://stinkeater.github.io/stink/media/posts/3/IMG_8209.jpg" medium="image" />
-            <category term="Video"/>
             <category term="Recipes"/>
+            <category term="Photo"/>
 
-        <updated>2023-07-01T03:50:07-04:00</updated>
+        <updated>2023-07-01T04:08:26-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://stinkeater.github.io/stink/media/posts/3/IMG_8209.jpg" alt="" />
@@ -80,10 +123,10 @@
         <link href="https://stinkeater.github.io/stink/refried-black-beans.html"/>
         <id>https://stinkeater.github.io/stink/refried-black-beans.html</id>
         <media:content url="https://stinkeater.github.io/stink/media/posts/2/IMG_8187.jpg" medium="image" />
-            <category term="Video"/>
             <category term="Recipes"/>
+            <category term="Photo"/>
 
-        <updated>2023-07-01T03:51:03-04:00</updated>
+        <updated>2023-07-01T04:08:38-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://stinkeater.github.io/stink/media/posts/2/IMG_8187.jpg" alt="" />

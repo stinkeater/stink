@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://stinkeater.github.io/stink/classic-sandwich-bread.html",
+            "url": "https://stinkeater.github.io/stink/classic-sandwich-bread.html",
+            "title": "Classic Sandwich Bread",
+            "summary": "INGREDIENTS (2 loaves) STEPS Combine all ingredients and mix Knead with dough hook for 15-18 minutes or until dough pulls from the side in thin strands Transfer to lightly greased bowl and rise for 1-1.5 hours or until puffy but not doubled in size. Gently&hellip;",
+            "content_html": "<p class=\"p2\"><strong>INGREDIENTS </strong>(2 loaves)</p>\n<ul class=\"ul1\">\n<li class=\"li2\">6 cups (720g) AP flour</li>\n<li class=\"li2\">25-50g granulated sugar</li>\n<li class=\"li2\">16g salt</li>\n<li class=\"li2\">2 teaspoons instant yeast</li>\n<li class=\"li2\">1 cup (226g) milk</li>\n<li class=\"li2\">100g olive oil</li>\n<li class=\"li2\">250g warm water</li>\n</ul>\n<p class=\"p2\"><strong>STEPS</strong></p>\n<ol class=\"ol1\">\n<li class=\"li2\">Combine all ingredients and mix</li>\n<li class=\"li2\">Knead with dough hook for 15-18 minutes or until dough pulls from the side in thin strands</li>\n<li class=\"li2\">Transfer to lightly greased bowl and rise for 1-1.5 hours or until puffy but not doubled in size.</li>\n<li class=\"li2\">Gently deflate, divide in two, envelope fold and shape into 8” logs, transfer to greased loaf pans.</li>\n<li class=\"li2\">Cover with greased plastic wrap and rise 1-1.5 hrs (1” above edge)</li>\n<li class=\"li2\">Bake at 350°F for 30-35 mins.</li>\n</ol>",
+            "image": "https://stinkeater.github.io/stink/media/posts/4/IMG_7154.jpg",
+            "author": {
+                "name": "stinkeater"
+            },
+            "tags": [
+                   "Recipes",
+                   "Photo"
+            ],
+            "date_published": "2023-07-01T04:17:07-04:00",
+            "date_modified": "2023-07-01T04:17:07-04:00"
+        },
+        {
             "id": "https://stinkeater.github.io/stink/spicy-cajun-red-beans-and-rice.html",
             "url": "https://stinkeater.github.io/stink/spicy-cajun-red-beans-and-rice.html",
             "title": "Spicy Cajun Red Beans &amp; Rice",
@@ -20,11 +37,11 @@
                 "name": "stinkeater"
             },
             "tags": [
-                   "Video",
-                   "Recipes"
+                   "Recipes",
+                   "Photo"
             ],
             "date_published": "2023-07-01T03:50:07-04:00",
-            "date_modified": "2023-07-01T03:50:07-04:00"
+            "date_modified": "2023-07-01T04:08:26-04:00"
         },
         {
             "id": "https://stinkeater.github.io/stink/refried-black-beans.html",
@@ -37,11 +54,11 @@
                 "name": "stinkeater"
             },
             "tags": [
-                   "Video",
-                   "Recipes"
+                   "Recipes",
+                   "Photo"
             ],
             "date_published": "2023-07-01T02:36:35-04:00",
-            "date_modified": "2023-07-01T03:51:03-04:00"
+            "date_modified": "2023-07-01T04:08:38-04:00"
         }
     ]
 }
