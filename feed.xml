@@ -3,12 +3,55 @@
     <title>🪱stinkeater</title>
     <link href="https://stinkeater.github.io/stink/feed.xml" rel="self" />
     <link href="https://stinkeater.github.io/stink" />
-    <updated>2023-07-01T06:36:39-04:00</updated>
+    <updated>2023-07-01T06:53:40-04:00</updated>
     <author>
         <name>stinkeater</name>
     </author>
     <id>https://stinkeater.github.io/stink</id>
 
+    <entry>
+        <title>No Knead Bread  </title>
+        <author>
+            <name>stinkeater</name>
+        </author>
+        <link href="https://stinkeater.github.io/stink/no-knead-bread.html"/>
+        <id>https://stinkeater.github.io/stink/no-knead-bread.html</id>
+        <media:content url="https://stinkeater.github.io/stink/media/posts/7/IMG_3791.jpg" medium="image" />
+            <category term="Recipes"/>
+            <category term="Photo"/>
+
+        <updated>2023-07-01T06:53:40-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://stinkeater.github.io/stink/media/posts/7/IMG_3791.jpg" alt="" />
+                    INGREDIENTS STEPS Mix and rest for 14 hrs Preheat dutch oven at 450F for 30 mins Shape dough into ball on counter with bench scraper Sprinkle seeds (optional) Cover with bowl and rest 30 mins Transfer to cornmeal dusted parchment Slash Bake with lid on&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://stinkeater.github.io/stink/media/posts/7/IMG_3791.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="align-left"><strong>INGREDIENTS</strong></p>
+<ul class="ul1">
+<li class="li1">3 1/4 cups (425 grams) all-purpose flour</li>
+<li class="li1">1/2 teaspoon dry yeast</li>
+<li class="li1">1 1/2 (8g) teaspoon kosher salt</li>
+<li class="li1">1 1/2 (330g) cups warm water</li>
+<li>Sesame seeds (optional)</li>
+</ul>
+<p><strong>STEPS</strong></p>
+<ol class="ol1">
+<li class="li1">Mix and rest for 14 hrs</li>
+<li class="li1">Preheat dutch oven at 450F for 30 mins</li>
+<li class="li1">Shape dough into ball on counter with bench scraper</li>
+<li class="li1">Sprinkle seeds (optional)</li>
+<li class="li1">Cover with bowl and rest 30 mins</li>
+<li class="li1">Transfer to cornmeal dusted parchment</li>
+<li class="li1">Slash</li>
+<li class="li1">Bake with lid on for 30 mins, then lid off for 20</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Good Morning Good Morning</title>
         <author>
