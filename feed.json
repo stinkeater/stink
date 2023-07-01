@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://stinkeater.github.io/stink/stealing-shit-is-cool.html",
+            "url": "https://stinkeater.github.io/stink/stealing-shit-is-cool.html",
+            "title": "Stealing Shit is Cool",
+            "summary": "db wrote this awesome resource to help you get set up with usenet, among other things. check it out",
+            "content_html": "<p>db wrote this awesome resource to help you get set up with usenet, among other things. <a href=\"https://docs.google.com/document/d/1CpfLE9Geh189rY_dPCLYE5Ugr0EhHHGY2Uf55exAeV8/edit?usp=drive_link\" target=\"_blank\" rel=\"noopener noreferrer\">check it out</a></p>",
+            "author": {
+                "name": "stinkeater"
+            },
+            "tags": [
+                   "Files"
+            ],
+            "date_published": "2023-07-01T07:45:26-04:00",
+            "date_modified": "2023-07-01T07:45:26-04:00"
+        },
+        {
             "id": "https://stinkeater.github.io/stink/good-morning-good-morning.html",
             "url": "https://stinkeater.github.io/stink/good-morning-good-morning.html",
             "title": "Good Morning Good Morning",

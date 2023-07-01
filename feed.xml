@@ -3,12 +3,33 @@
     <title>🪱stinkeater</title>
     <link href="https://stinkeater.github.io/stink/feed.xml" rel="self" />
     <link href="https://stinkeater.github.io/stink" />
-    <updated>2023-07-01T07:02:00-04:00</updated>
+    <updated>2023-07-01T07:45:26-04:00</updated>
     <author>
         <name>stinkeater</name>
     </author>
     <id>https://stinkeater.github.io/stink</id>
 
+    <entry>
+        <title>Stealing Shit is Cool</title>
+        <author>
+            <name>stinkeater</name>
+        </author>
+        <link href="https://stinkeater.github.io/stink/stealing-shit-is-cool.html"/>
+        <id>https://stinkeater.github.io/stink/stealing-shit-is-cool.html</id>
+            <category term="Files"/>
+
+        <updated>2023-07-01T07:45:26-04:00</updated>
+            <summary>
+                <![CDATA[
+                    db wrote this awesome resource to help you get set up with usenet, among other things. check it out
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>db wrote this awesome resource to help you get set up with usenet, among other things. <a href="https://docs.google.com/document/d/1CpfLE9Geh189rY_dPCLYE5Ugr0EhHHGY2Uf55exAeV8/edit?usp=drive_link" target="_blank" rel="noopener noreferrer">check it out</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Good Morning Good Morning</title>
         <author>
