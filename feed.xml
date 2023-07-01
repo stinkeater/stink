@@ -3,7 +3,7 @@
     <title>🪱stinkeater</title>
     <link href="https://stinkeater.github.io/stink/feed.xml" rel="self" />
     <link href="https://stinkeater.github.io/stink" />
-    <updated>2023-07-01T06:58:42-04:00</updated>
+    <updated>2023-07-01T07:01:03-04:00</updated>
     <author>
         <name>stinkeater</name>
     </author>
@@ -61,7 +61,7 @@
         <id>https://stinkeater.github.io/stink/good-morning-good-morning.html</id>
             <category term="Files"/>
 
-        <updated>2023-07-01T06:36:39-04:00</updated>
+        <updated>2023-07-01T07:01:03-04:00</updated>
             <summary>
                 <![CDATA[
                     Google Drive download
@@ -69,7 +69,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://drive.google.com/drive/folders/16JtTLpZVYAUYTJsCmB5OPAVCPfImHoEs?usp=drive_link" target="_blank" rel="noopener noreferrer">Google Drive download</a></p>
+                <p><strong><a href="https://drive.google.com/drive/folders/16JtTLpZVYAUYTJsCmB5OPAVCPfImHoEs?usp=drive_link" target="_blank" rel="noopener noreferrer">Google Drive download</a></strong></p>
             ]]>
         </content>
     </entry>

@@ -31,7 +31,7 @@
             "url": "https://stinkeater.github.io/stink/good-morning-good-morning.html",
             "title": "Good Morning Good Morning",
             "summary": "Google Drive download",
-            "content_html": "<p><a href=\"https://drive.google.com/drive/folders/16JtTLpZVYAUYTJsCmB5OPAVCPfImHoEs?usp=drive_link\" target=\"_blank\" rel=\"noopener noreferrer\">Google Drive download</a></p>",
+            "content_html": "<p><strong><a href=\"https://drive.google.com/drive/folders/16JtTLpZVYAUYTJsCmB5OPAVCPfImHoEs?usp=drive_link\" target=\"_blank\" rel=\"noopener noreferrer\">Google Drive download</a></strong></p>",
             "author": {
                 "name": "stinkeater"
             },
@@ -39,7 +39,7 @@
                    "Files"
             ],
             "date_published": "2023-07-01T06:13:36-04:00",
-            "date_modified": "2023-07-01T06:36:39-04:00"
+            "date_modified": "2023-07-01T07:01:03-04:00"
         },
         {
             "id": "https://stinkeater.github.io/stink/classic-sandwich-bread.html",
