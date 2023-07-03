@@ -3,7 +3,7 @@
     <title>🪱stinkeater</title>
     <link href="https://stinkeater.github.io/stink/feed.xml" rel="self" />
     <link href="https://stinkeater.github.io/stink" />
-    <updated>2023-07-02T16:56:27-04:00</updated>
+    <updated>2023-07-03T17:37:48-04:00</updated>
     <author>
         <name>stinkeater</name>
     </author>
@@ -16,9 +16,10 @@
         </author>
         <link href="https://stinkeater.github.io/stink/stealing-shit-is-cool/"/>
         <id>https://stinkeater.github.io/stink/stealing-shit-is-cool/</id>
+            <category term="Latest"/>
             <category term="Files"/>
 
-        <updated>2023-07-01T07:45:26-04:00</updated>
+        <updated>2023-07-03T17:36:36-04:00</updated>
             <summary>
                 <![CDATA[
                     db wrote this awesome resource to help you get set up with usenet, among other things. check it out
@@ -37,9 +38,10 @@
         </author>
         <link href="https://stinkeater.github.io/stink/good-morning-good-morning/"/>
         <id>https://stinkeater.github.io/stink/good-morning-good-morning/</id>
+            <category term="Latest"/>
             <category term="Files"/>
 
-        <updated>2023-07-02T16:56:27-04:00</updated>
+        <updated>2023-07-03T17:36:56-04:00</updated>
             <summary>
                 <![CDATA[
                     Ep 1 - Love and Relationships Ep 7 - Spirituality Ep 2 - Health Ep 8 - Sex Ep 3 - Crime Ep 9 - Shopping Ep 4 - Food Ep 10 - Television Ep 5 - Politics Ep 11 - Sports Ep 6 - School Ep 12 - Da End Right-click and "Save link as" to download Google Drive download
@@ -77,8 +79,9 @@
         <media:content url="https://stinkeater.github.io/stink/media/posts/7/IMG_3791.jpg" medium="image" />
             <category term="Recipes"/>
             <category term="Photo"/>
+            <category term="Latest"/>
 
-        <updated>2023-07-02T14:37:36-04:00</updated>
+        <updated>2023-07-03T17:36:44-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://stinkeater.github.io/stink/media/posts/7/IMG_3791.jpg" alt="" />
@@ -121,8 +124,9 @@
         <media:content url="https://stinkeater.github.io/stink/media/posts/4/IMG_7154.jpg" medium="image" />
             <category term="Recipes"/>
             <category term="Photo"/>
+            <category term="Latest"/>
 
-        <updated>2023-07-02T14:37:09-04:00</updated>
+        <updated>2023-07-03T17:37:08-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://stinkeater.github.io/stink/media/posts/4/IMG_7154.jpg" alt="" />
@@ -165,8 +169,9 @@
         <media:content url="https://stinkeater.github.io/stink/media/posts/3/IMG_8209.jpg" medium="image" />
             <category term="Recipes"/>
             <category term="Photo"/>
+            <category term="Latest"/>
 
-        <updated>2023-07-02T14:23:23-04:00</updated>
+        <updated>2023-07-03T17:37:19-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://stinkeater.github.io/stink/media/posts/3/IMG_8209.jpg" alt="" />
@@ -229,8 +234,9 @@
         <media:content url="https://stinkeater.github.io/stink/media/posts/2/IMG_8187.jpg" medium="image" />
             <category term="Recipes"/>
             <category term="Photo"/>
+            <category term="Latest"/>
 
-        <updated>2023-07-02T14:23:15-04:00</updated>
+        <updated>2023-07-03T17:37:48-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://stinkeater.github.io/stink/media/posts/2/IMG_8187.jpg" alt="" />

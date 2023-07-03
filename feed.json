@@ -20,10 +20,11 @@
                 "name": "stinkeater"
             },
             "tags": [
+                   "Latest",
                    "Files"
             ],
             "date_published": "2023-07-01T07:45:26-04:00",
-            "date_modified": "2023-07-01T07:45:26-04:00"
+            "date_modified": "2023-07-03T17:36:36-04:00"
         },
         {
             "id": "https://stinkeater.github.io/stink/good-morning-good-morning/",
@@ -35,10 +36,11 @@
                 "name": "stinkeater"
             },
             "tags": [
+                   "Latest",
                    "Files"
             ],
             "date_published": "2023-07-01T07:00:00-04:00",
-            "date_modified": "2023-07-02T16:56:27-04:00"
+            "date_modified": "2023-07-03T17:36:56-04:00"
         },
         {
             "id": "https://stinkeater.github.io/stink/no-knead-bread/",
@@ -52,10 +54,11 @@
             },
             "tags": [
                    "Recipes",
-                   "Photo"
+                   "Photo",
+                   "Latest"
             ],
             "date_published": "2023-07-01T06:53:40-04:00",
-            "date_modified": "2023-07-02T14:37:36-04:00"
+            "date_modified": "2023-07-03T17:36:44-04:00"
         },
         {
             "id": "https://stinkeater.github.io/stink/classic-sandwich-bread/",
@@ -69,10 +72,11 @@
             },
             "tags": [
                    "Recipes",
-                   "Photo"
+                   "Photo",
+                   "Latest"
             ],
             "date_published": "2023-07-01T04:17:07-04:00",
-            "date_modified": "2023-07-02T14:37:09-04:00"
+            "date_modified": "2023-07-03T17:37:08-04:00"
         },
         {
             "id": "https://stinkeater.github.io/stink/spicy-cajun-red-beans-and-rice/",
@@ -86,10 +90,11 @@
             },
             "tags": [
                    "Recipes",
-                   "Photo"
+                   "Photo",
+                   "Latest"
             ],
             "date_published": "2023-07-01T03:50:07-04:00",
-            "date_modified": "2023-07-02T14:23:23-04:00"
+            "date_modified": "2023-07-03T17:37:19-04:00"
         },
         {
             "id": "https://stinkeater.github.io/stink/refried-black-beans/",
@@ -103,10 +108,11 @@
             },
             "tags": [
                    "Recipes",
-                   "Photo"
+                   "Photo",
+                   "Latest"
             ],
             "date_published": "2023-07-01T02:36:35-04:00",
-            "date_modified": "2023-07-02T14:23:15-04:00"
+            "date_modified": "2023-07-03T17:37:48-04:00"
         }
     ]
 }
