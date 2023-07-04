@@ -3,12 +3,34 @@
     <title>🪱stinkeater</title>
     <link href="https://turd.pics/feed.xml" rel="self" />
     <link href="https://turd.pics" />
-    <updated>2023-07-04T18:12:36-04:00</updated>
+    <updated>2023-07-04T19:47:27-04:00</updated>
     <author>
         <name>stinkeater</name>
     </author>
     <id>https://turd.pics</id>
 
+    <entry>
+        <title>welcome</title>
+        <author>
+            <name>stinkeater</name>
+        </author>
+        <link href="https://turd.pics/welcome-2/"/>
+        <id>https://turd.pics/welcome-2/</id>
+
+        <updated>2023-07-04T19:47:27-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Your browser does not support the video tag.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><video loading="lazy" width="1200" height="1200" controls="controls">
+  <source src="Nintendo.mp4" type="video/mp4" />
+  Your browser does not support the video tag.</video></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Usenet Guide</title>
         <author>
