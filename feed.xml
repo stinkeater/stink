@@ -3,14 +3,14 @@
     <title>🪱stinkeater</title>
     <link href="https://turd.pics/feed.xml" rel="self" />
     <link href="https://turd.pics" />
-    <updated>2023-07-03T17:37:48-04:00</updated>
+    <updated>2023-07-04T18:12:36-04:00</updated>
     <author>
         <name>stinkeater</name>
     </author>
     <id>https://turd.pics</id>
 
     <entry>
-        <title>Stealing Shit is Cool</title>
+        <title>Usenet Guide</title>
         <author>
             <name>stinkeater</name>
         </author>
@@ -19,7 +19,7 @@
             <category term="Latest"/>
             <category term="Files"/>
 
-        <updated>2023-07-03T17:36:36-04:00</updated>
+        <updated>2023-07-04T18:12:36-04:00</updated>
             <summary>
                 <![CDATA[
                     db wrote this awesome resource to help you get set up with usenet, among other things. check it out
@@ -27,7 +27,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>db wrote this awesome resource to help you get set up with usenet, among other things. <a href="https://docs.google.com/document/d/1CpfLE9Geh189rY_dPCLYE5Ugr0EhHHGY2Uf55exAeV8/edit?usp=drive_link" target="_blank" rel="noopener noreferrer">check it out</a></p>
+                <p>db wrote this awesome resource to help you get set up with usenet, among other things. <strong><a href="https://docs.google.com/document/d/1CpfLE9Geh189rY_dPCLYE5Ugr0EhHHGY2Uf55exAeV8/edit?usp=drive_link" target="_blank" rel="noopener noreferrer">check it out</a></strong></p>
             ]]>
         </content>
     </entry>

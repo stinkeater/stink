@@ -13,9 +13,9 @@
         {
             "id": "https://turd.pics/stealing-shit-is-cool/",
             "url": "https://turd.pics/stealing-shit-is-cool/",
-            "title": "Stealing Shit is Cool",
+            "title": "Usenet Guide",
             "summary": "db wrote this awesome resource to help you get set up with usenet, among other things. check it out",
-            "content_html": "<p>db wrote this awesome resource to help you get set up with usenet, among other things. <a href=\"https://docs.google.com/document/d/1CpfLE9Geh189rY_dPCLYE5Ugr0EhHHGY2Uf55exAeV8/edit?usp=drive_link\" target=\"_blank\" rel=\"noopener noreferrer\">check it out</a></p>",
+            "content_html": "<p>db wrote this awesome resource to help you get set up with usenet, among other things. <strong><a href=\"https://docs.google.com/document/d/1CpfLE9Geh189rY_dPCLYE5Ugr0EhHHGY2Uf55exAeV8/edit?usp=drive_link\" target=\"_blank\" rel=\"noopener noreferrer\">check it out</a></strong></p>",
             "author": {
                 "name": "stinkeater"
             },
@@ -24,7 +24,7 @@
                    "Files"
             ],
             "date_published": "2023-07-01T07:45:26-04:00",
-            "date_modified": "2023-07-03T17:36:36-04:00"
+            "date_modified": "2023-07-04T18:12:36-04:00"
         },
         {
             "id": "https://turd.pics/good-morning-good-morning/",
