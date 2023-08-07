@@ -3,12 +3,33 @@
     <title>turd.pics</title>
     <link href="https://turd.pics/feed.xml" rel="self" />
     <link href="https://turd.pics" />
-    <updated>2023-07-15T17:34:38-04:00</updated>
+    <updated>2023-08-07T15:11:58-04:00</updated>
     <author>
         <name>stinkeater</name>
     </author>
     <id>https://turd.pics</id>
 
+    <entry>
+        <title>jj</title>
+        <author>
+            <name>stinkeater</name>
+        </author>
+        <link href="https://turd.pics/jj/"/>
+        <id>https://turd.pics/jj/</id>
+            <category term="Latest"/>
+
+        <updated>2023-08-07T15:11:58-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Buy now
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><button class="snipcart-add-item" data-item-id="1" data-item-name="Next One Won't Be a Mac - Sticker" data-item-price="5.00" data-item-image="https://boring-bose-80b3c8.netlify.com/media/posts/1/responsive/2544765-1-md.png" data-item-weight="10" data-item-url="https://nextonewontbeamac.com" data-item-description="Cancel that free Apple promo you're doing with your Mac."> Buy now </button></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Usenet Guide</title>
         <author>
