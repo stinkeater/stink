@@ -3,7 +3,7 @@
     <title>turd.pics</title>
     <link href="https://turd.pics/feed.xml" rel="self" />
     <link href="https://turd.pics" />
-    <updated>2023-08-07T23:52:24-04:00</updated>
+    <updated>2023-08-08T04:04:52-04:00</updated>
     <author>
         <name>stinkeater</name>
     </author>
@@ -19,8 +19,9 @@
         <media:content url="https://turd.pics/media/posts/12/sand-mockup-back-2.png" medium="image" />
             <category term="Shop"/>
             <category term="Photo"/>
+            <category term="Latest"/>
 
-        <updated>2023-08-07T22:50:00-04:00</updated>
+        <updated>2023-08-08T04:04:52-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://turd.pics/media/posts/12/sand-mockup-back-2.png" alt="" />
@@ -53,8 +54,9 @@
         <media:content url="https://turd.pics/media/posts/16/mint-mockup-back.png" medium="image" />
             <category term="Shop"/>
             <category term="Photo"/>
+            <category term="Latest"/>
 
-        <updated>2023-08-07T23:52:24-04:00</updated>
+        <updated>2023-08-08T04:04:22-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://turd.pics/media/posts/16/mint-mockup-back.png" alt="" />
@@ -85,8 +87,9 @@
         <media:content url="https://turd.pics/media/posts/14/lavender-mockup-back.png" medium="image" />
             <category term="Shop"/>
             <category term="Photo"/>
+            <category term="Latest"/>
 
-        <updated>2023-08-07T23:47:43-04:00</updated>
+        <updated>2023-08-08T04:04:35-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://turd.pics/media/posts/14/lavender-mockup-back.png" alt="" />
@@ -117,8 +120,9 @@
         <media:content url="https://turd.pics/media/posts/13/bone-mockup-back.png" medium="image" />
             <category term="Shop"/>
             <category term="Photo"/>
+            <category term="Latest"/>
 
-        <updated>2023-08-07T23:49:23-04:00</updated>
+        <updated>2023-08-08T04:04:44-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://turd.pics/media/posts/13/bone-mockup-back.png" alt="" />
