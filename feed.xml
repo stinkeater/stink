@@ -3,7 +3,7 @@
     <title>stinkeater.com</title>
     <link href="https://stinkeater.github.io/stink/feed.xml" rel="self" />
     <link href="https://stinkeater.github.io/stink" />
-    <updated>2024-11-30T16:56:55-05:00</updated>
+    <updated>2024-11-30T17:37:11-05:00</updated>
     <author>
         <name>stinkeater</name>
     </author>
@@ -19,19 +19,16 @@
             <category term="Latest"/>
             <category term="Files"/>
 
-        <updated>2024-11-30T16:56:55-05:00</updated>
+        <updated>2024-11-30T17:37:11-05:00</updated>
             <summary>
                 <![CDATA[
-                    an intro guide to usenet and other things, written by db If you prefer, click here to download the PDF. Here are some links and resources I’ve collected. There may be alternative methods that work better for you. VPN When you torrent something from a public bittorrent tracker, your information is visible to anyone who looks at the details of that torrent. Movie studios pay copyright enforcement firms to monitor public torrent trackers and scan the IPs of anyone sharing content they own, then they send a letter to your ISP, who may or may not eventually terminate your service. For this reason, it is important to find a VPN provider that doesn’t keep logs and doesn’t respond to copyright notices. Proton VPN Mullvad See also: Private Internet Access NordVPN Note: Remember to bind your torrent client to your VPN connection so, if your VPN drops, you aren’t exposing your IP. (In qbittorrent this is located in: Tools, Options, Advanced, Network Interface) Streaming Plex Plex organizes video, audio, and photos from a user's server and streams it to players on mobile devices, smart TVs, streaming boxes, and in web apps. Plex client The app you use on your PC, Apple TV, and iphone to watch other people’s content Plex Server (Your own server, that you run from your home, to stream your media to your personal devices and share with friends) see also: PlexAmp Jellyfin Open-source media server alternative to Plex See also: Emby, Kodi IPTV Internet-based Protocol Television (IPTV) refers to the streaming of TV programs through broadband Internet rather than the traditional cable or satellite. Private IPTV Access ($10/mo) Xtreme HDIPTV ($16/mo) See also: Awesome IPTV (github) Bittorrent Decentralized peer-to-peer file-sharing protocol Torrent Clients qbittorrent Torrent Sites Private Trackers Torrent sites you need an invite* to. (“Safer” than&hellip;
+                    an intro guide to usenet and other things, written by db What Da Fuck is Usenet? &lt;-- read this Here are some links and resources I’ve collected. There may be alternative methods that work better for you. VPN When you torrent something from a public bittorrent tracker, your information is visible to anyone who looks at the details of that torrent. Movie studios pay copyright enforcement firms to monitor public torrent trackers and scan the IPs of anyone sharing content they own, then they send a letter to your ISP, who may or may not eventually terminate your service. For this reason, it is important to find a VPN provider that doesn’t keep logs and doesn’t respond to copyright notices. Proton VPN Mullvad See also: Private Internet Access NordVPN Note: Remember to bind your torrent client to your VPN connection so, if your VPN drops, you aren’t exposing your IP. (In qbittorrent this is located in: Tools, Options, Advanced, Network Interface) Streaming Plex Plex organizes video, audio, and photos from a user's server and streams it to players on mobile devices, smart TVs, streaming boxes, and in web apps. Plex client The app you use on your PC, Apple TV, and iphone to watch other people’s content Plex Server (Your own server, that you run from your home, to stream your media to your personal devices and share with friends) see also: PlexAmp Jellyfin Open-source media server alternative to Plex See also: Emby, Kodi IPTV Internet-based Protocol Television (IPTV) refers to the streaming of TV programs through broadband Internet rather than the traditional cable or satellite. Private IPTV Access ($10/mo) Xtreme HDIPTV ($16/mo) See also: Awesome IPTV (github) Bittorrent Decentralized peer-to-peer file-sharing protocol Torrent Clients qbittorrent Torrent Sites Private Trackers Torrent sites you need an invite* to. (“Safer” than public&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>an intro guide to usenet and other things, written by db<br><br></p>
-<h2>View the Document</h2>
-<div class="post__iframe"><iframe loading="lazy" width="100%" height="800px" style="border: none;" src="{{@media.folderPath}}/Usenet.pdf"></iframe></div>
-<p>If you prefer, <a href="{{@media.folderPath}}/example.pdf" download="">click here to download the PDF</a>.</p>
-<p> </p>
+                <p>an intro guide to usenet and other things, written by db<a href="https://cdn.discordapp.com/attachments/861855614841257985/1312539471685615616/Usenet.pdf" download=""></a></p>
+<p><a href="https://stinkeater.github.io/stink/Usenet.pdf" target="_blank" rel="noopener noreferrer">What Da Fuck is Usenet?</a> &lt;-- read this</p>
 <blockquote>
 <p><i><span style="font-weight: 400;">Here are some links and resources I’ve collected. There may be alternative methods that work better for you.</span></i></p>
 <p> </p>
