@@ -1,34 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>stinkeater.com</title>
-    <link href="https://stinkeater.github.io/stink/feed.xml" rel="self" />
-    <link href="https://stinkeater.github.io/stink" />
-    <updated>2024-11-30T17:37:11-05:00</updated>
+    <link href="https://stinkeater.com/feed.xml" rel="self" />
+    <link href="https://stinkeater.com" />
+    <updated>2024-11-30T17:39:12-05:00</updated>
     <author>
         <name>stinkeater</name>
     </author>
-    <id>https://stinkeater.github.io/stink</id>
+    <id>https://stinkeater.com</id>
 
     <entry>
         <title>Usenet Guide</title>
         <author>
             <name>stinkeater</name>
         </author>
-        <link href="https://stinkeater.github.io/stink/stealing-shit-is-cool/"/>
-        <id>https://stinkeater.github.io/stink/stealing-shit-is-cool/</id>
+        <link href="https://stinkeater.com/stealing-shit-is-cool/"/>
+        <id>https://stinkeater.com/stealing-shit-is-cool/</id>
+        <media:content url="https://stinkeater.com/media/posts/8/skelecomputer.png" medium="image" />
             <category term="Latest"/>
             <category term="Files"/>
 
-        <updated>2024-11-30T17:37:11-05:00</updated>
+        <updated>2024-11-30T17:39:12-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://stinkeater.com/media/posts/8/skelecomputer.png" alt="" />
                     an intro guide to usenet and other things, written by db What Da Fuck is Usenet? &lt;-- read this Here are some links and resources I’ve collected. There may be alternative methods that work better for you. VPN When you torrent something from a public bittorrent tracker, your information is visible to anyone who looks at the details of that torrent. Movie studios pay copyright enforcement firms to monitor public torrent trackers and scan the IPs of anyone sharing content they own, then they send a letter to your ISP, who may or may not eventually terminate your service. For this reason, it is important to find a VPN provider that doesn’t keep logs and doesn’t respond to copyright notices. Proton VPN Mullvad See also: Private Internet Access NordVPN Note: Remember to bind your torrent client to your VPN connection so, if your VPN drops, you aren’t exposing your IP. (In qbittorrent this is located in: Tools, Options, Advanced, Network Interface) Streaming Plex Plex organizes video, audio, and photos from a user's server and streams it to players on mobile devices, smart TVs, streaming boxes, and in web apps. Plex client The app you use on your PC, Apple TV, and iphone to watch other people’s content Plex Server (Your own server, that you run from your home, to stream your media to your personal devices and share with friends) see also: PlexAmp Jellyfin Open-source media server alternative to Plex See also: Emby, Kodi IPTV Internet-based Protocol Television (IPTV) refers to the streaming of TV programs through broadband Internet rather than the traditional cable or satellite. Private IPTV Access ($10/mo) Xtreme HDIPTV ($16/mo) See also: Awesome IPTV (github) Bittorrent Decentralized peer-to-peer file-sharing protocol Torrent Clients qbittorrent Torrent Sites Private Trackers Torrent sites you need an invite* to. (“Safer” than public&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://stinkeater.com/media/posts/8/skelecomputer.png" class="type:primaryImage" alt="" /></p>
                 <p>an intro guide to usenet and other things, written by db<a href="https://cdn.discordapp.com/attachments/861855614841257985/1312539471685615616/Usenet.pdf" download=""></a></p>
-<p><a href="https://stinkeater.github.io/stink/Usenet.pdf" target="_blank" rel="noopener noreferrer">What Da Fuck is Usenet?</a> &lt;-- read this</p>
+<p><a href="https://stinkeater.com/Usenet.pdf" target="_blank" rel="noopener noreferrer">What Da Fuck is Usenet?</a> &lt;-- read this</p>
 <blockquote>
 <p><i><span style="font-weight: 400;">Here are some links and resources I’ve collected. There may be alternative methods that work better for you.</span></i></p>
 <p> </p>
@@ -405,9 +408,9 @@
         <author>
             <name>stinkeater</name>
         </author>
-        <link href="https://stinkeater.github.io/stink/no-knead-bread/"/>
-        <id>https://stinkeater.github.io/stink/no-knead-bread/</id>
-        <media:content url="https://stinkeater.github.io/stink/media/posts/7/IMG_3791.jpg" medium="image" />
+        <link href="https://stinkeater.com/no-knead-bread/"/>
+        <id>https://stinkeater.com/no-knead-bread/</id>
+        <media:content url="https://stinkeater.com/media/posts/7/IMG_3791.jpg" medium="image" />
             <category term="Recipes"/>
             <category term="Photo"/>
             <category term="Latest"/>
@@ -415,14 +418,14 @@
         <updated>2023-07-03T17:36:44-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://stinkeater.github.io/stink/media/posts/7/IMG_3791.jpg" alt="" />
+                        <img src="https://stinkeater.com/media/posts/7/IMG_3791.jpg" alt="" />
                     Download PDF INGREDIENTS STEPS Mix and rest for 14 hrs Preheat dutch oven at 450F for 30 mins Shape dough into ball on counter with bench scraper (Method video) Sprinkle seeds (optional) Cover with bowl and rest 30 mins Transfer to cornmeal dusted parchment paper Slash Bake with lid on for 30 mins, then lid off for 20
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://stinkeater.github.io/stink/media/posts/7/IMG_3791.jpg" class="type:primaryImage" alt="" /></p>
-                <p class="align-center"><a href="https://stinkeater.github.io/stink/No knead bread.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a></p>
+                    <p><img src="https://stinkeater.com/media/posts/7/IMG_3791.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="align-center"><a href="https://stinkeater.com/No knead bread.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a></p>
 <p class="align-left"><strong>INGREDIENTS</strong></p>
 <ul class="ul1">
 <li class="li1">3 1/4 cups (425 grams) all-purpose flour</li>
@@ -450,9 +453,9 @@
         <author>
             <name>stinkeater</name>
         </author>
-        <link href="https://stinkeater.github.io/stink/classic-sandwich-bread/"/>
-        <id>https://stinkeater.github.io/stink/classic-sandwich-bread/</id>
-        <media:content url="https://stinkeater.github.io/stink/media/posts/4/IMG_7154.jpg" medium="image" />
+        <link href="https://stinkeater.com/classic-sandwich-bread/"/>
+        <id>https://stinkeater.com/classic-sandwich-bread/</id>
+        <media:content url="https://stinkeater.com/media/posts/4/IMG_7154.jpg" medium="image" />
             <category term="Recipes"/>
             <category term="Photo"/>
             <category term="Latest"/>
@@ -460,14 +463,14 @@
         <updated>2023-07-03T17:37:08-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://stinkeater.github.io/stink/media/posts/4/IMG_7154.jpg" alt="" />
+                        <img src="https://stinkeater.com/media/posts/4/IMG_7154.jpg" alt="" />
                     Download PDF INGREDIENTS (2 loaves) STEPS Combine all ingredients and mix Knead with dough hook for 15-18 minutes or until dough pulls from the side in thin strands Transfer to lightly greased bowl and rise for 1-1.5 hours or until puffy but not doubled in size. Gently deflate, divide in two, envelope fold and shape into 8” logs, transfer to greased loaf pans. Cover with greased plastic wrap and rise 1-1.5 hrs (1” above edge) Bake at 350°F for 30-35 mins.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://stinkeater.github.io/stink/media/posts/4/IMG_7154.jpg" class="type:primaryImage" alt="" /></p>
-                <p class="align-center"><a href="https://stinkeater.github.io/stink/Classic sandwich bread.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a></p>
+                    <p><img src="https://stinkeater.com/media/posts/4/IMG_7154.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="align-center"><a href="https://stinkeater.com/Classic sandwich bread.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a></p>
 <p class="p2"><strong>INGREDIENTS </strong>(2 loaves)</p>
 <ul class="ul1">
 <li class="li2">6 cups (720g) AP flour</li>
@@ -495,9 +498,9 @@
         <author>
             <name>stinkeater</name>
         </author>
-        <link href="https://stinkeater.github.io/stink/spicy-cajun-red-beans-and-rice/"/>
-        <id>https://stinkeater.github.io/stink/spicy-cajun-red-beans-and-rice/</id>
-        <media:content url="https://stinkeater.github.io/stink/media/posts/3/IMG_8209.jpg" medium="image" />
+        <link href="https://stinkeater.com/spicy-cajun-red-beans-and-rice/"/>
+        <id>https://stinkeater.com/spicy-cajun-red-beans-and-rice/</id>
+        <media:content url="https://stinkeater.com/media/posts/3/IMG_8209.jpg" medium="image" />
             <category term="Recipes"/>
             <category term="Photo"/>
             <category term="Latest"/>
@@ -505,14 +508,14 @@
         <updated>2023-07-15T17:34:38-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://stinkeater.github.io/stink/media/posts/3/IMG_8209.jpg" alt="" />
+                        <img src="https://stinkeater.com/media/posts/3/IMG_8209.jpg" alt="" />
                     Download PDF Time: 2.5-3 hours INGREDIENTS STEPS Rinse and sort beans. Drizzle a small amount of olive oil in a large heavy pot, then brown sausage on med-high for 5 minutes. Remove sausage, leaving oil in pot. Set aside until Step 7. Add chopped vegetables, garlic, peppers, along with 1/2 stick butter, and continue to cook until onions turn soft and clear. Add beans, chicken stock, bay leaves, and cajun seasoning. Bring to rolling boil for 30 minutes, stirring occasionally. Reduce heat, simmer for 2-2.5 hours, stirring occasionally, until desired thickness is achieved. Add sausage back in for the last 15 minutes. Test and season to taste with cajun seasoning salt or standard salt. Serve over hot cooked rice with chopped green onions.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://stinkeater.github.io/stink/media/posts/3/IMG_8209.jpg" class="type:primaryImage" alt="" /></p>
-                <p class="align-center"><a href="https://stinkeater.github.io/stink/Spicy Cajun Red Beans &amp; Rice .pdf" target="_blank" rel="noopener noreferrer">Download PDF</a></p>
+                    <p><img src="https://stinkeater.com/media/posts/3/IMG_8209.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="align-center"><a href="https://stinkeater.com/Spicy Cajun Red Beans &amp; Rice .pdf" target="_blank" rel="noopener noreferrer">Download PDF</a></p>
 <p>Time: 2.5-3 hours</p>
 <p><strong>INGREDIENTS</strong></p>
 <ul style="list-style-type: square;">
@@ -560,9 +563,9 @@
         <author>
             <name>stinkeater</name>
         </author>
-        <link href="https://stinkeater.github.io/stink/refried-black-beans/"/>
-        <id>https://stinkeater.github.io/stink/refried-black-beans/</id>
-        <media:content url="https://stinkeater.github.io/stink/media/posts/2/IMG_8187.jpg" medium="image" />
+        <link href="https://stinkeater.com/refried-black-beans/"/>
+        <id>https://stinkeater.com/refried-black-beans/</id>
+        <media:content url="https://stinkeater.com/media/posts/2/IMG_8187.jpg" medium="image" />
             <category term="Recipes"/>
             <category term="Photo"/>
             <category term="Latest"/>
@@ -570,14 +573,14 @@
         <updated>2023-07-03T17:37:48-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://stinkeater.github.io/stink/media/posts/2/IMG_8187.jpg" alt="" />
+                        <img src="https://stinkeater.com/media/posts/2/IMG_8187.jpg" alt="" />
                     Download PDF Time: 30-40 mins INGREDIENTS STEPS Heat oil in a medium saucepan. Add garlic and smash. Toss in oil until slightly browned but not burnt. Add onion and cook until softened. Add beans and liquid from one can, green chiles, seasonings, and butter. Liquid should be level or slightly higher than the beans. Add stock/broth/water if liquid is too low. Simmer about 20-30 mins, stirring occasionally until liquid has reduced by about half. Taste, add salt if needed, then immersion blend to desired consistency. Optional: Mix some grated cheese into the beans at the end to thicken slightly and add flavor.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://stinkeater.github.io/stink/media/posts/2/IMG_8187.jpg" class="type:primaryImage" alt="" /></p>
-                <p class="align-center"><a href="https://stinkeater.github.io/stink/Refried beans.pdf" target="_blank" rel="noopener noreferrer" download>Download PDF</a></p>
+                    <p><img src="https://stinkeater.com/media/posts/2/IMG_8187.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="align-center"><a href="https://stinkeater.com/Refried beans.pdf" target="_blank" rel="noopener noreferrer" download>Download PDF</a></p>
 <p class="align-left">Time: 30-40 mins</p>
 <p class="align-left"><strong>INGREDIENTS</strong></p>
 <div class="page" title="Page 1">
