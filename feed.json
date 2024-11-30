@@ -1,0 +1,102 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "stinkeater.com",
+    "description": "",
+    "home_page_url": "https://stinkeater.github.io/stink",
+    "feed_url": "https://stinkeater.github.io/stink/feed.json",
+    "user_comment": "",
+    "icon": "https://stinkeater.github.io/stink/media/website/stinkeater-site-logo-worm.png",
+    "author": {
+        "name": "stinkeater"
+    },
+    "items": [
+        {
+            "id": "https://stinkeater.github.io/stink/stealing-shit-is-cool/",
+            "url": "https://stinkeater.github.io/stink/stealing-shit-is-cool/",
+            "title": "Usenet Guide",
+            "summary": "db wrote this awesome resource to help you get set up with usenet, among other things. check it out",
+            "content_html": "<p>db wrote this awesome resource to help you get set up with usenet, among other things. <strong><a href=\"https://docs.google.com/document/d/1CpfLE9Geh189rY_dPCLYE5Ugr0EhHHGY2Uf55exAeV8/edit?usp=drive_link\" target=\"_blank\" rel=\"noopener noreferrer\">check it out</a></strong></p>",
+            "author": {
+                "name": "stinkeater"
+            },
+            "tags": [
+                   "Latest",
+                   "Files"
+            ],
+            "date_published": "2023-07-01T07:45:26-04:00",
+            "date_modified": "2023-07-04T18:12:36-04:00"
+        },
+        {
+            "id": "https://stinkeater.github.io/stink/no-knead-bread/",
+            "url": "https://stinkeater.github.io/stink/no-knead-bread/",
+            "title": "No Knead Bread  ",
+            "summary": "Download PDF INGREDIENTS STEPS Mix and rest for 14 hrs Preheat dutch oven at 450F for 30 mins Shape dough into ball on counter with bench scraper (Method video) Sprinkle seeds (optional) Cover with bowl and rest 30 mins Transfer to cornmeal dusted parchment paper Slash Bake with lid on for 30 mins, then lid off for 20",
+            "content_html": "<p class=\"align-center\"><a href=\"https://stinkeater.github.io/stink/No knead bread.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Download PDF</a></p>\n<p class=\"align-left\"><strong>INGREDIENTS</strong></p>\n<ul class=\"ul1\">\n<li class=\"li1\">3 1/4 cups (425 grams) all-purpose flour</li>\n<li class=\"li1\">1/2 tsp dry yeast</li>\n<li class=\"li1\">1 1/2 (8g) tsp kosher salt</li>\n<li class=\"li1\">1 1/2 (330g) cups warm water</li>\n<li>Sesame seeds (optional)</li>\n</ul>\n<p><strong>STEPS</strong></p>\n<ol class=\"ol1\">\n<li class=\"li1\">Mix and rest for 14 hrs</li>\n<li class=\"li1\">Preheat dutch oven at 450F for 30 mins</li>\n<li class=\"li1\">Shape dough into ball on counter with bench scraper <a href=\"https://youtu.be/vEG1BjWroT0\" target=\"_blank\" rel=\"noopener noreferrer\">(Method video)</a></li>\n<li class=\"li1\">Sprinkle seeds (optional)</li>\n<li class=\"li1\">Cover with bowl and rest 30 mins</li>\n<li class=\"li1\">Transfer to cornmeal dusted parchment paper</li>\n<li class=\"li1\">Slash</li>\n<li class=\"li1\">Bake with lid on for 30 mins, then lid off for 20</li>\n</ol>",
+            "image": "https://stinkeater.github.io/stink/media/posts/7/IMG_3791.jpg",
+            "author": {
+                "name": "stinkeater"
+            },
+            "tags": [
+                   "Recipes",
+                   "Photo",
+                   "Latest"
+            ],
+            "date_published": "2023-07-01T06:53:40-04:00",
+            "date_modified": "2023-07-03T17:36:44-04:00"
+        },
+        {
+            "id": "https://stinkeater.github.io/stink/classic-sandwich-bread/",
+            "url": "https://stinkeater.github.io/stink/classic-sandwich-bread/",
+            "title": "Classic Sandwich Bread",
+            "summary": "Download PDF INGREDIENTS (2 loaves) STEPS Combine all ingredients and mix Knead with dough hook for 15-18 minutes or until dough pulls from the side in thin strands Transfer to lightly greased bowl and rise for 1-1.5 hours or until puffy but not doubled in size. Gently deflate, divide in two, envelope fold and shape into 8” logs, transfer to greased loaf pans. Cover with greased plastic wrap and rise 1-1.5 hrs (1” above edge) Bake at 350°F for 30-35 mins.",
+            "content_html": "<p class=\"align-center\"><a href=\"https://stinkeater.github.io/stink/Classic sandwich bread.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Download PDF</a></p>\n<p class=\"p2\"><strong>INGREDIENTS </strong>(2 loaves)</p>\n<ul class=\"ul1\">\n<li class=\"li2\">6 cups (720g) AP flour</li>\n<li class=\"li2\">25-50g granulated sugar</li>\n<li class=\"li2\">16g salt</li>\n<li class=\"li2\">2 teaspoons instant yeast</li>\n<li class=\"li2\">1 cup (226g) milk</li>\n<li class=\"li2\">100g olive oil</li>\n<li class=\"li2\">250g warm water</li>\n</ul>\n<p class=\"p2\"><strong>STEPS</strong></p>\n<ol class=\"ol1\">\n<li class=\"li2\">Combine all ingredients and mix</li>\n<li class=\"li2\">Knead with dough hook for 15-18 minutes or until dough pulls from the side in thin strands</li>\n<li class=\"li2\">Transfer to lightly greased bowl and rise for 1-1.5 hours or until puffy but not doubled in size.</li>\n<li class=\"li2\">Gently deflate, divide in two, envelope fold and shape into 8” logs, transfer to greased loaf pans.</li>\n<li class=\"li2\">Cover with greased plastic wrap and rise 1-1.5 hrs (1” above edge)</li>\n<li class=\"li2\">Bake at 350°F for 30-35 mins.</li>\n</ol>",
+            "image": "https://stinkeater.github.io/stink/media/posts/4/IMG_7154.jpg",
+            "author": {
+                "name": "stinkeater"
+            },
+            "tags": [
+                   "Recipes",
+                   "Photo",
+                   "Latest"
+            ],
+            "date_published": "2023-07-01T04:17:07-04:00",
+            "date_modified": "2023-07-03T17:37:08-04:00"
+        },
+        {
+            "id": "https://stinkeater.github.io/stink/spicy-cajun-red-beans-and-rice/",
+            "url": "https://stinkeater.github.io/stink/spicy-cajun-red-beans-and-rice/",
+            "title": "Spicy Cajun Red Beans &amp; Rice",
+            "summary": "Download PDF Time: 2.5-3 hours INGREDIENTS STEPS Rinse and sort beans. Drizzle a small amount of olive oil in a large heavy pot, then brown sausage on med-high for 5 minutes. Remove sausage, leaving oil in pot. Set aside until Step 7. Add chopped vegetables, garlic, peppers, along with 1/2 stick butter, and continue to cook until onions turn soft and clear. Add beans, chicken stock, bay leaves, and cajun seasoning. Bring to rolling boil for 30 minutes, stirring occasionally. Reduce heat, simmer for 2-2.5 hours, stirring occasionally, until desired thickness is achieved. Add sausage back in for the last 15 minutes. Test and season to taste with cajun seasoning salt or standard salt. Serve over hot cooked rice with chopped green onions.",
+            "content_html": "<p class=\"align-center\"><a href=\"https://stinkeater.github.io/stink/Spicy Cajun Red Beans &amp; Rice .pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Download PDF</a></p>\n<p>Time: 2.5-3 hours</p>\n<p><strong>INGREDIENTS</strong></p>\n<ul style=\"list-style-type: square;\">\n<li class=\"p1\">2 lbs dry kidney beans</li>\n<li>2 (12 oz) packages smoked sausage, sliced lengthwise and in bite-sized pieces</li>\n<li class=\"p1\">20 cups (5 quarts) chicken stock</li>\n<li class=\"p1\">1/2 stick of butter</li>\n<li class=\"p1\">5 cups chopped vegetable base (onions, celery, green bell peppers)</li>\n<li class=\"p1\">Fresh peppers to taste (1 habanero/4-6 jalapenos etc.)</li>\n<li class=\"p1\">1 bulb garlic, minced</li>\n<li class=\"p1\">2 bay leaves</li>\n<li style=\"list-style-type: none;\">\n<ul style=\"list-style-type: square;\">\n<li><strong>Cajun seasoning:</strong>\n<ul style=\"list-style-type: square;\">\n<li>2 tsp paprika</li>\n<li>1 Tbsp dried oregano</li>\n<li>1/2 Tbsp dried thyme</li>\n<li>1 tsp black pepper (or more to taste)</li>\n<li>1/2 tsp rubbed sage</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>Salt or cajun seasoning salt to taste</li>\n<li>Hot cooked rice</li>\n<li>Green onions</li>\n</ul>\n<p class=\"p1\"><strong>STEPS</strong></p>\n<ol class=\"ol1\">\n<li class=\"li1\">Rinse and sort beans.</li>\n<li class=\"li1\">Drizzle a small amount of olive oil in a large heavy pot, then brown sausage on med-high for 5 minutes. Remove sausage, leaving oil in pot. Set aside until Step 7.</li>\n<li class=\"li1\">Add chopped vegetables, garlic, peppers, along with 1/2 stick butter, and continue to cook until onions turn soft and clear.</li>\n<li class=\"li1\">Add beans, chicken stock, bay leaves, and <strong>cajun seasoning</strong>.</li>\n<li class=\"li1\">Bring to rolling boil for 30 minutes, stirring occasionally.</li>\n<li class=\"li1\">Reduce heat, simmer for 2-2.5 hours, stirring occasionally, until desired thickness is achieved.</li>\n<li class=\"li1\">Add sausage back in for the last 15 minutes. Test and season to taste with cajun seasoning salt or standard salt.</li>\n<li class=\"li1\">Serve over hot cooked rice with chopped green onions.</li>\n</ol>",
+            "image": "https://stinkeater.github.io/stink/media/posts/3/IMG_8209.jpg",
+            "author": {
+                "name": "stinkeater"
+            },
+            "tags": [
+                   "Recipes",
+                   "Photo",
+                   "Latest"
+            ],
+            "date_published": "2023-07-01T03:50:07-04:00",
+            "date_modified": "2023-07-15T17:34:38-04:00"
+        },
+        {
+            "id": "https://stinkeater.github.io/stink/refried-black-beans/",
+            "url": "https://stinkeater.github.io/stink/refried-black-beans/",
+            "title": "Refried Black Beans",
+            "summary": "Download PDF Time: 30-40 mins INGREDIENTS STEPS Heat oil in a medium saucepan. Add garlic and smash. Toss in oil until slightly browned but not burnt. Add onion and cook until softened. Add beans and liquid from one can, green chiles, seasonings, and butter. Liquid should be level or slightly higher than the beans. Add stock/broth/water if liquid is too low. Simmer about 20-30 mins, stirring occasionally until liquid has reduced by about half. Taste, add salt if needed, then immersion blend to desired consistency. Optional: Mix some grated cheese into the beans at the end to thicken slightly and add flavor.",
+            "content_html": "<p class=\"align-center\"><a href=\"https://stinkeater.github.io/stink/Refried beans.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" download>Download PDF</a></p>\n<p class=\"align-left\">Time: 30-40 mins</p>\n<p class=\"align-left\"><strong>INGREDIENTS</strong></p>\n<div class=\"page\" title=\"Page 1\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<ul style=\"list-style-type: square;\">\n<li class=\"column\">2 Tbsp olive oil</li>\n<li>1 onion, diced</li>\n<li>5 garlic cloves, whole, peeled</li>\n<li>2 cans black beans (drain only one can)</li>\n<li>1/4 cup green chiles (can swap w/ salsa verde)</li>\n<li>2 tsp oregano</li>\n<li>1 tsp cumin</li>\n<li>1 tsp paprika</li>\n<li>1/2 tsp chili powder</li>\n<li>1/2 tsp chili flakes</li>\n<li>cube of salted butter</li>\n<li>ground black pepper to taste</li>\n<li>salt to taste</li>\n</ul>\n</div>\n</div>\n</div>\n<p class=\"p1\"><strong>STEPS</strong></p>\n<ol class=\"ol1\">\n<li class=\"li1\">Heat oil in a medium saucepan. Add garlic and smash. Toss in oil until slightly browned but not burnt. Add onion and cook until softened.</li>\n<li class=\"li1\">Add beans and liquid from one can, green chiles, seasonings, and butter. Liquid should be level or slightly higher than the beans. Add stock/broth/water if liquid is too low.</li>\n<li class=\"li1\">Simmer about 20-30 mins, stirring occasionally until liquid has reduced by about half.</li>\n<li class=\"li1\">Taste, add salt if needed, then immersion blend to desired consistency.</li>\n<li class=\"li1\">Optional: Mix some grated cheese into the beans at the end to thicken slightly and add flavor.</li>\n</ol>",
+            "image": "https://stinkeater.github.io/stink/media/posts/2/IMG_8187.jpg",
+            "author": {
+                "name": "stinkeater"
+            },
+            "tags": [
+                   "Recipes",
+                   "Photo",
+                   "Latest"
+            ],
+            "date_published": "2023-07-01T02:36:35-04:00",
+            "date_modified": "2023-07-03T17:37:48-04:00"
+        }
+    ]
+}
