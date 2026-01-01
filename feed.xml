@@ -3,12 +3,32 @@
     <title>stinkeater.com</title>
     <link href="https://stinkeater.com/feed.xml" rel="self" />
     <link href="https://stinkeater.com" />
-    <updated>2024-12-01T22:34:11-05:00</updated>
+    <updated>2026-01-01T03:01:50-05:00</updated>
     <author>
         <name>stinkeater</name>
     </author>
     <id>https://stinkeater.com</id>
 
+    <entry>
+        <title>IronLoop</title>
+        <author>
+            <name>stinkeater</name>
+        </author>
+        <link href="https://stinkeater.com/ironloop/"/>
+        <id>https://stinkeater.com/ironloop/</id>
+
+        <updated>2026-01-01T03:01:50-05:00</updated>
+            <summary>
+                <![CDATA[
+                    I made a workout app. check it out. you can customize your workouts and track your progress over time. all your history syncs between devices and its free to use. its made for mobile so add it to your home screen as a web app. https://ironloop.stinkeater.com/
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center">I made a workout app. check it out. you can customize your workouts and track your progress over time. all your history syncs between devices and its free to use. its made for mobile so add it to your home screen as a web app.<br><br><a href="https://ironloop.stinkeater.com/" target="_blank" rel="noopener noreferrer">https://ironloop.stinkeater.com/</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>How to Help Palestinians</title>
         <author>
