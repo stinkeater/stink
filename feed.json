@@ -16,13 +16,16 @@
             "title": "IronLoop",
             "summary": "I made a workout app. check it out. you can customize your workouts and track your progress over time. all your history syncs between devices and its free to use. its made for mobile so add it to your home screen as a web app. https://ironloop.stinkeater.com/",
             "content_html": "<p class=\"align-center\">I made a workout app. check it out. you can customize your workouts and track your progress over time. all your history syncs between devices and its free to use. its made for mobile so add it to your home screen as a web app.<br><br><a href=\"https://ironloop.stinkeater.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://ironloop.stinkeater.com/</a></p>",
+            "image": "https://stinkeater.com/media/posts/18/og-image-v2.png",
             "author": {
                 "name": "stinkeater"
             },
             "tags": [
+                   "more stuff",
+                   "latest"
             ],
             "date_published": "2026-01-01T03:01:50-05:00",
-            "date_modified": "2026-01-01T03:01:50-05:00"
+            "date_modified": "2026-01-01T03:04:39-05:00"
         },
         {
             "id": "https://stinkeater.com/palestinian-aid/",

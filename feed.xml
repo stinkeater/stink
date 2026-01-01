@@ -3,7 +3,7 @@
     <title>stinkeater.com</title>
     <link href="https://stinkeater.com/feed.xml" rel="self" />
     <link href="https://stinkeater.com" />
-    <updated>2026-01-01T03:01:50-05:00</updated>
+    <updated>2026-01-01T03:04:39-05:00</updated>
     <author>
         <name>stinkeater</name>
     </author>
@@ -16,15 +16,20 @@
         </author>
         <link href="https://stinkeater.com/ironloop/"/>
         <id>https://stinkeater.com/ironloop/</id>
+        <media:content url="https://stinkeater.com/media/posts/18/og-image-v2.png" medium="image" />
+            <category term="more stuff"/>
+            <category term="latest"/>
 
-        <updated>2026-01-01T03:01:50-05:00</updated>
+        <updated>2026-01-01T03:04:39-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://stinkeater.com/media/posts/18/og-image-v2.png" alt="" />
                     I made a workout app. check it out. you can customize your workouts and track your progress over time. all your history syncs between devices and its free to use. its made for mobile so add it to your home screen as a web app. https://ironloop.stinkeater.com/
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://stinkeater.com/media/posts/18/og-image-v2.png" class="type:primaryImage" alt="" /></p>
                 <p class="align-center">I made a workout app. check it out. you can customize your workouts and track your progress over time. all your history syncs between devices and its free to use. its made for mobile so add it to your home screen as a web app.<br><br><a href="https://ironloop.stinkeater.com/" target="_blank" rel="noopener noreferrer">https://ironloop.stinkeater.com/</a></p>
             ]]>
         </content>
